@@ -105,9 +105,6 @@ The accompanying technical report identifies several key findings:
 
 Contributions are welcome! Please feel free to submit pull requests, report issues, or suggest enhancements.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
